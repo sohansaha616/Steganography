@@ -13,6 +13,4 @@ Secure Steganography Tool is an easy-to-use Python application that lets you hid
 - PyCryptodome (AES encryption)
 - OpenCV (video processing)
 - wave module (audio steganography)
-# Architecture
-gui_main.py
-stego_core.py
+
